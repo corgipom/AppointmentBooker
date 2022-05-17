@@ -1,0 +1,26 @@
+
+~~~ Mo's Clinic ~~~
+
+Thank you for choosing Mo's, which service would you like to book?
+
+1) Acupuncture
+2) Massage
+3) Fire-cupping
+0) Exit
+
+That is not a service we offer, please choose from the service list below
+1) Acupuncture
+2) Massage
+3) Fire-cupping
+0) Exit
+
+You selected to make a booking for Acupuncture
+
+What is your phone number?
+
+I don't have a record for that phone number, what is your name?
+
+What time would you like your Acupuncture, Fabio?
+
+I have put you down for a Acupuncture at 10:30, Fabio.
+
